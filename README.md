@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I'm Mac. I've been a stay-at-home dad with a special needs son for the past 8 years while I owned some rental property in my hometown. I have been passionate about technology since my first computer with dual 5.25" floppy drives and a terminal prompt. I started a computer repair and networking business when I was 17 with a good friend of mine from high school. I left that business to serve my country and joined the U.S. Army as an infantryman. Recently, I have gotten the ability to again pursue that passion. I love a good challenge and knowing that I'm doing something that is difficult, hence the choice of being an infantryman. 
+I'm Mac. I've been a stay-at-home dad with a special needs son for the past 8 years while I owned some rental property in my hometown. I have been passionate about technology since my first computer with dual 5.25" floppy drives and a terminal prompt. I started a computer repair and networking business when I was 17 with a good friend of mine from high school. I left that business to serve my country and joined the U.S. Army as an infantryman. Recently, I have gotten the ability to again pursue that passion in tech. I love a good challenge and knowing that I'm doing something that is difficult, hence the choice of being an infantryman. 
 
 I'm currently learning the backend portion of Nashville Software School's full stack web development course.
 
 I'm currently working on a full-stack CRUD application that would let a pet boarding business manage their animals, customers, employees, and locations. 
 
 You can reach me at matthew.mcmorries@gmail.com
-
-Ask me about 
 
 <!--
 **TomHawk123/TomHawk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
