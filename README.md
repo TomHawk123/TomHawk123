@@ -4,7 +4,7 @@ I'm Mac. In 1992, I sat down to an Apple Macintosh SE and the mustard seed was p
 
 - 🌱 I’m currently learning: Advanced Performance testing with Apache JMeter
 
-- 🔭 I’m currently working on: A production level mobile application, The Promo App, at a tech startup. 
+- 🔭 I’m currently working on: Platform Engineering with AWS, Azure, and/or GCP
 
 - 📫 How to reach me: matthew.mcmorries@gmail.com
 
@@ -12,7 +12,7 @@ I'm Mac. In 1992, I sat down to an Apple Macintosh SE and the mustard seed was p
 
 - ⚡ Fun fact: I've travelled all over the world and never had a passport. Thanks, Army.
 
-- 🤔 I’m looking for help with MERN stack backend operations. Anything and everything in the DevSecOps space; really.
+- 🤔 I’m looking for help with production level infrastructure and platfofrm setup with things like AWS EKS, ALB, EC2, RDS, IAM, etc.
 
 - 😄 Pronouns: Dude/Duderino
 
