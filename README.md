@@ -1,10 +1,22 @@
 ### Hi there 👋
 
-I'm Mac. In 1992, I sat down to an Apple Macintosh SE and the mustard seed was planted. Less than a decade later I started NextGen computers, a successful tech advisement company. By 2004, I heard and answered the call to defend the United States of America. After two tours and years of honorable service in the US Army, I have had the privilege of being a stay at home father to a son with special needs and am now able to pursue a career. Of course that mustard seed from 1992 had grown into a tech tree, so I did my due diligence and applied to Nashville Software School. Now I work as a full stack dev producing and publishing a mobile application. Rapidly developing and implementing my QA and Ops skillset. 
+As a SWE deeply engaged in the development of diverse web and mobile applications, my career is a combination of technical acumen, leadership finesse, and an unwavering enthusiasm for programming. Each project I embark on is an adventure in itself, fueled by my quest to push the boundaries of what's possible in technology.
 
-- 🌱 I’m currently learning: Advanced Performance testing with Apache JMeter
+At the helm of a spirited team of software developers, my role has been to steer our projects from the ideation to the reality of deployment.
 
-- 🔭 I’m currently working on: Platform Engineering with AWS, Azure, and/or GCP
+In the realms of AWS and DigitalOcean, I've found my niche. My grasp on DevOps and platform engineering has been critical in refining our workflows and boosting the efficiency and performance of our applications.
+
+My day-to-day involves more than just coding; it's about nurturing a collaborative environment. Whether it's managing our GitHub repositories, ensuring our code is crisp and clean, or keeping our service accounts secure and our databases streamlined, I am constantly working to uphold and advance our team's standards.
+
+But it's not all about the code. My engagement with potential clients and service providers is driven by a genuine interest in forging productive relationships and crafting solutions that speak to their unique challenges.
+
+Beyond the screen and keyboard, my life is shaped by experiences as a US Army Infantry veteran, and the joy of being a father and husband. These roles have instilled in me values that resonate in my professional life: discipline, commitment, and the importance of a supportive team.
+
+In this ever-changing tech landscape, I'm always keen to exchange ideas, learn from others, and discover fresh opportunities. If you're on a similar path, let's connect and see where our conversations lead!
+
+- 🌱 I’m currently learning: AWS Lamda
+
+- 🔭 I’m currently working on: Creating templates to use for expedited product delivery that allow for full customization and ownership of code. 
 
 - 📫 How to reach me: matthew.mcmorries@gmail.com
 
