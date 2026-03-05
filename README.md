@@ -1,5 +1,5 @@
 ### Hi there 👋
-I LOVE to build highly scalable and efficient systems that follow SOLID design principles. 
+I LOVE to build highly scalable and efficient systems that follow secure-by-design principles. 
 
 Beyond the screen and keyboard, my life is shaped by experiences as a US Army Infantry veteran, and the joy of being a father and husband. These roles have instilled in me values that resonate in my professional life: discipline, commitment, and the importance of a supportive team.
 
@@ -7,7 +7,7 @@ In this ever-changing tech landscape, I'm always keen to exchange ideas, learn f
 
 - 🌱 I’m currently learning: AI Agency and Systems Architecture
 
-- 🔭 I’m currently working on: Creating templates to use for expedited product delivery that allow for full customization and ownership of code. 
+- 🔭 I’m currently working on: Security Posture Management 
 
 - 📫 How to reach me: matthew.mcmorries@gmail.com
 
