@@ -15,8 +15,6 @@ In this ever-changing tech landscape, I'm always keen to exchange ideas, learn f
 
 - ⚡ Fun fact: I've travelled all over the world and never used a passport. Thanks, Army.
 
-- 🤔 I’m looking for help with production level infrastructure and platfofrm setup with things like AWS EKS, RDS, IAM, etc.
-
 - 😄 Pronouns: Dude/Duderino
 
 <!--
