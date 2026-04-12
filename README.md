@@ -5,7 +5,7 @@ Beyond the screen and keyboard, my life is shaped by experiences as a US Army In
 
 In this ever-changing tech landscape, I'm always keen to exchange ideas, learn from others, and discover fresh opportunities. If you're on a similar path, let's connect and see where our conversations lead!
 
-- 🌱 I’m currently learning: AI Agency and Systems Architecture
+- 🌱 I’m currently learning: Machine Learning and Reinforcement Learning
 
 - 🔭 I’m currently working on: Security Posture Management 
 
